@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\garci\Documents\Github\WpfProject\App.xaml
-21004904347
+2376403462
 
-71535886173
+7-1620276787
 194544994949
-MainWindow.xaml;View\ViewModel.xaml;
+MainWindow.xaml;View\LoginView.xaml;
 
 True
 
